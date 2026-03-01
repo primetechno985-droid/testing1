@@ -209,14 +209,14 @@ item(21, "Ice Cooler", "plasticware", "249.75", "Plasticware/waterjug1.webp"),
 
 
 // Furniture 
-item(71, "Gaming Chair", "furniture", "2,999.75", "Furniture/gamingchair.webp"),
-item(72, "Office Chair", "furniture", "1,249.75", "Furniture/officechair.webp"),
-item(73, "Vanity Dresser", "furniture", "2,699.75", "Furniture/vanitywhite.webp"),
-item(74, "Rattan Chair", "furniture", "399.75", "Furniture/rattanchair.webp"),
-item(75, "Monoblock Chair", "furniture", "279.75", "Furniture/monoblock1.webp"),
-item(76, "Rotating Storage Shelf", "furniture", "1,499.75", "Furniture/rotating square.webp"),
-item(77, "Jupiter Dish Drainer & Cabinet", "furniture", "2,199.00", "Furniture/dish drainer1.webp"),
-item(78, "Camping Tent ", "furniture", "1399.75", "Furniture/tent1.webp"),
+item(71, "Gaming Chair", "furniture", "2,999.75", "furniture/gamingchair.webp"),
+item(72, "Office Chair", "furniture", "1,249.75", "furniture/officechair.webp"),
+item(73, "Vanity Dresser", "furniture", "2,699.75", "furniture/vanitywhite.webp"),
+item(74, "Rattan Chair", "furniture", "399.75", "furniture/rattanchair.webp"),
+item(75, "Monoblock Chair", "furniture", "279.75", "furniture/monoblock1.webp"),
+item(76, "Rotating Storage Shelf", "furniture", "1,499.75", "furniture/rotating square.webp"),
+item(77, "Jupiter Dish Drainer & Cabinet", "furniture", "2,199.00", "furniture/dish drainer1.webp"),
+item(78, "Camping Tent ", "furniture", "1399.75", "furniture/tent1.webp"),
 item(79, "Denim Jacket", "furniture", "169.75", "Plasticware/p5.webp"),
 //item(80, "Denim Jacket", "furniture", "129.99", "kitchenware/k7.jpg"),
 
@@ -234,16 +234,16 @@ item(79, "Denim Jacket", "furniture", "169.75", "Plasticware/p5.webp"),
   item(90, "Connect 4 Launchers", "toys", "328.00", "toys/car9.webp"),
 
   // Hardware
-  item(91, "Easyman PaintBrush", "hardware", "49.75", "hardware/h3.webp"),
-  item(92, "Epika Star", "hardware", "142.00", "hardware/h5.webp"),
-  item(93, "Sherlux", "hardware", "138.75", "hardware/h6.webp"),
-  item(94, "Starex", "hardware", "189.75", "hardware/h8.webp"),
-  item(95, "Easyman Saw", "hardware", "139.75", "hardware/h9.webp"),
-  item(96, "Royu Switches", "hardware", "128.75", "hardware/h12.png"),
-  item(97, "Tolsen Digital Multimeter", "hardware", "1,299.00", "hardware/h12.webp"),
-  item(98, "Ever Water Meter Lxsg Brass Type", "hardware", "980.00", "hardware/h16.webp"),
-  item(99, "Tolsen Table Saw 1500w", "hardware", "13,990", "hardware/h19.webp"),
-  item(100, "Epica Grease Gun 500cc", "hardware", "469.00", "hardware/h18.webp"),
+  item(91, "Easyman PaintBrush", "hardware", "49.75", "Hardware/h3.webp"),
+  item(92, "Epika Star", "hardware", "142.00", "Hardware/h5.webp"),
+  item(93, "Sherlux", "hardware", "138.75", "Hardware/h6.webp"),
+  item(94, "Starex", "hardware", "189.75", "Hardware/h8.webp"),
+  item(95, "Easyman Saw", "hardware", "139.75", "Hardware/h9.webp"),
+  item(96, "Royu Switches", "hardware", "128.75", "Hardware/h12.png"),
+  item(97, "Tolsen Digital Multimeter", "hardware", "1,299.00", "Hardware/h12.webp"),
+  item(98, "Ever Water Meter Lxsg Brass Type", "hardware", "980.00", "Hardware/h16.webp"),
+  item(99, "Tolsen Table Saw 1500w", "hardware", "13,990", "Hardware/h19.webp"),
+  item(100, "Epica Grease Gun 500cc", "hardware", "469.00", "Hardware/h18.webp"),
 
 // Accessories
   item(101, "Pastel Hair Clip", "accessories", "49.75", "Accessories/acc1.webp"),
@@ -263,7 +263,7 @@ item(112, "HBV Stamp Pad", "school-supplies", "89.00", "School Supplies/school2.
 item(113, "Bloom Gel Pen", "school-supplies", "26,490", "School Supplies/school3.webp"),
 item(114, "EVO Clipboard", "school-supplies", "159.75", "School Supplies/school4.webp"),
 item(115, "Pencil Case Zipper Pouch", "school-supplies", "89.75", "School Supplies/school5.webp"),
-item(116, "Stick-ee White Glue", "school-supplies", "59.00", "chool Supplies/school6.webp"),
+item(116, "Stick-ee White Glue", "school-supplies", "59.00", "school Supplies/school6.webp"),
 item(117, "JOT Easy Ballpen", "school-supplies", "79.75", "School Supplies/school7.webp"),
 item(118, "Hard Copy Bond Paper", "school-supplies", "139.75", "School Supplies/school8.webp"),
 item(119, "Chipboard", "school-supplies", "7,999", "School Supplies/school9.webp"),
@@ -585,5 +585,6 @@ document.querySelectorAll('.footer-categories a').forEach(link => {
     }
   });
 });
+
 
 
