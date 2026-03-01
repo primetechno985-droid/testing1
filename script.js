@@ -263,7 +263,7 @@ item(112, "HBV Stamp Pad", "school-supplies", "89.00", "School Supplies/school2.
 item(113, "Bloom Gel Pen", "school-supplies", "26,490", "School Supplies/school3.webp"),
 item(114, "EVO Clipboard", "school-supplies", "159.75", "School Supplies/school4.webp"),
 item(115, "Pencil Case Zipper Pouch", "school-supplies", "89.75", "School Supplies/school5.webp"),
-item(116, "Stick-ee White Glue", "school-supplies", "59.00", "school Supplies/school6.webp"),
+item(116, "Stick-ee White Glue", "school-supplies", "59.00", "School Supplies/school6.webp"),
 item(117, "JOT Easy Ballpen", "school-supplies", "79.75", "School Supplies/school7.webp"),
 item(118, "Hard Copy Bond Paper", "school-supplies", "139.75", "School Supplies/school8.webp"),
 item(119, "Chipboard", "school-supplies", "7,999", "School Supplies/school9.webp"),
@@ -585,6 +585,7 @@ document.querySelectorAll('.footer-categories a').forEach(link => {
     }
   });
 });
+
 
 
 
