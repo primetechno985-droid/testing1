@@ -217,7 +217,7 @@ item(75, "Monoblock Chair", "furniture", "279.75", "furniture/monoblock1.webp"),
 item(76, "Rotating Storage Shelf", "furniture", "1,499.75", "furniture/rotating square.webp"),
 item(77, "Jupiter Dish Drainer & Cabinet", "furniture", "2,199.00", "furniture/dish drainer1.webp"),
 item(78, "Camping Tent ", "furniture", "1399.75", "furniture/tent1.webp"),
-item(79, "Denim Jacket", "furniture", "169.75", "furniture/p5.webp"),
+item(79, "Round table", "furniture", "169.75", "assets/Plasticware/p5.webp"),
 //item(80, "Denim Jacket", "furniture", "129.99", "kitchenware/k7.jpg"),
 
 
@@ -585,4 +585,5 @@ document.querySelectorAll('.footer-categories a').forEach(link => {
     }
   });
 });
+
 
